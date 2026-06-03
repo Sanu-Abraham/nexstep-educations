@@ -47,17 +47,23 @@ a{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:20px 0;
+    padding:10px 0;
 }
 
-.logo{
+/* .logo{
     font-size:1.6rem;
     font-weight:800;
     color:#ffffff;
-}
+} */
 
 .logo span{
     color:#60A5FA;
+}
+
+.logo-image{
+    width:150px;
+    margin-right:10px;
+    margin-bottom: -20px
 }
 
 .nav-links{
